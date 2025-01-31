@@ -32,7 +32,7 @@ src/
 
 ## Getting Started
 
-See the [documentation](https://madupite.github.io/) for installation instructions. 
+See the [documentation](https://madupite.github.io/) for installation instructions.
 
 ## Development Guidelines
 
