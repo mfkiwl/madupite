@@ -5,6 +5,7 @@
 <br/><br/>
 <a href="https://github.com/madupite/madupite/actions/workflows/ci-pipeline.yml"><img src="https://github.com/madupite/madupite/actions/workflows/ci-pipeline.yml/badge.svg" alt="CI Pipeline"></a>
 <a href="https://madupite.github.io/"><img src="https://img.shields.io/badge/docs-latest-blue.svg" alt="Documentation"></a>
+<a href="https://joss.theoj.org/papers/b7796be0782d9feb0bf5fb3bc37bc7e4"><img src="https://joss.theoj.org/papers/b7796be0782d9feb0bf5fb3bc37bc7e4/status.svg" alt="JOSS"></a>
 <br/><br/>
 <img src="docs/_static/madupite_logo.png" width="250" height="250"/>
 </div>
@@ -26,7 +27,7 @@ conda activate madupiteenv
 pip install .
 ```
 
-After installation, run `python examples/install/main.py` or `mpirun -n <number of ranks> python examples/install/main.py` to check if the installation was successful.
+Note that the conda environment file is limited to Linux for now. After installation, run `python examples/install/main.py` or `mpirun -n <number of ranks> python examples/install/main.py` to check if the installation was successful.
 
 We recommend using the provided conda environment. If you prefer to rely on your own environment, make sure to install the required dependencies listed in `environment.yml`. We refer to the documentation for more information on the installation process.
 
@@ -52,7 +53,7 @@ The [tutorials](https://madupite.github.io/tutorial.html) also provides more det
 
 
 ## Contributing
-Contributions to `madupite` are welcome! Whether it's reporting bugs, suggesting features, or submitting pull requests, we appreciate your input.
+Contributions to `madupite` are welcome! Please see the guidelines file `CONTRIBUTING.md` for more information.
 
 ## License
 `madupite` is distributed under the MIT License. See the `LICENSE` file for more information.
