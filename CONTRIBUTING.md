@@ -38,7 +38,7 @@ See the [documentation](https://madupite.github.io/) for installation instructio
 
 ### Code Style and Formatting
 
-Before submitting any changes: Configure your pre-commit hooks to automatically clean up and format the code. 
+Before submitting any changes: Configure your pre-commit hooks to automatically clean up and format the code.
 The CI pipeline enforces these formatting rules. Pull requests will fail if code doesn't comply with:
 - `.clang-format` specifications for C++
 - `.flake8` configuration for Python
