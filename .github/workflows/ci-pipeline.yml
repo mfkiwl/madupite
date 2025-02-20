@@ -39,4 +39,4 @@ jobs:
       with:
         folder: docs/_build/html
         repository-name: madupite/madupite.github.io
-        token: ${{ secrets.MADUPITE_GITHUB_PAGES }}
+        ssh-key: ${{ secrets.DEPLOY_KEY }}
