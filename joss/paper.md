@@ -46,7 +46,7 @@ bibliography: paper.bib
 # We have not submitted this work to any other journal.
 ---
 
-![Logo of `madupite`.](madupite_logo.png){ width=45% }
+![Logo of `madupite`.](madupite_logo.png){ width=40% }
 
 # Summary
 
