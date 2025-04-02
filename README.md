@@ -63,5 +63,19 @@ Contributions to `madupite` are welcome! Please see the guidelines file `CONTRIB
 
 If you use `madupite` in your research, please cite it.
 
+```
+@article{Gargiani2025, 
+    doi = {10.21105/joss.07411}, 
+    url = {https://doi.org/10.21105/joss.07411}, 
+    year = {2025}, 
+    publisher = {The Open Journal}, 
+    volume = {10}, 
+    number = {108}, 
+    pages = {7411}, 
+    author = {Matilde Gargiani and Philip Pawlowsky and Robin Sieber and Václav Hapla and John Lygeros}, 
+    title = {madupite: A High-Performance Distributed Solver for Large-Scale Markov Decision Processes}, 
+    journal = {Journal of Open Source Software} 
+}
+```
 
 [^1]: Gargiani, M.; Sieber. R.; Balta, E.; Liao-McPherson, D.; Lygeros, J. *Inexact Policy Iteration Methods for Large-Scale Markov Decision Processes*. <https://arxiv.org/abs/2404.06136>.
